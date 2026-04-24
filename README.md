@@ -13,7 +13,7 @@ Multiciliated cells project hundreds of motile cilia from their apical surface t
 Differentiating multiciliated cells require the sequential action of the Geminin family of transcriptional activators, GemC1 and Mcidas, which regulate the transcription of several target genes encoding proteins necessary for cilia formation and assembly. Moreover, recent evidence suggests a role for the chromatin remodeling complex SWI/SNF in the coordinated action of GemC1 and Mcidas to drive fate decisions and proper differentiation of multiciliate cells. However, the mechanism by which GemC1, Mcidas, and mSWI/SNF remodel chromatin to induce the multiciliated cell fate is poorly understood.
 
 
-## Methods Overview
+## Methods
 
 To explore the role of GemC1 in remodeling the chromatin and cooperating with mSWI/SNF, the Taraviras lab has used genome-wide approaches to capture the localization of histone post-translational modifications, BAF complexes, chromatin accessibility, and transcriptional output in primary radial glial cells differentiating into multiciliated cells in the presence or absence of GemC1. In this thesis,  several state-of-the-art bioinformatics tools are used to analyze the differential gene expression of radial glial cells that lack GemC1 and identify the regulatory networks that are misregulated upon loss of GemC1. CUT&RUN data analysis is used to understand how chromatin dynamics and SWI/SNF targeting on chromatin change upon differentiation of radial glial cells to multiciliated epithelium and how this dynamic is perturbed upon the loss of GemC1. 
 
